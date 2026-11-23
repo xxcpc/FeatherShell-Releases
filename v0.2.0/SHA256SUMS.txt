@@ -1,0 +1,1 @@
+a691dcd0d0f0f29b0dd7864eb64f10e6a704cab383fddbd464697211abecfcc7  FeatherShell-0.2.0-win-x64.zip
